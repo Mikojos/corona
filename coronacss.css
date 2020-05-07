@@ -1,0 +1,83 @@
+
+#homebar{
+    padding: 8px;
+    background-color: gray;
+    align-items:flex-end;
+    height: 30px;
+}
+.loginbutton {
+    color: #494949 ! important;
+    text-align: center;
+    text-decoration: none;
+    background: #ffffff;
+    padding: 4px;
+    border: 2px solid #494949 !important;
+    display: inline-block;
+    transition: all 0.4s ease 0s;
+
+}
+.loginbutton:hover {
+    color: #ffffff !important;
+    background: #f6b93b;
+    border-color: #f6b93b !important;
+    transition: all 0.4s ease 0s;
+}
+#titlehead{
+    background-color: darkgray;
+    padding: 10px;
+    font-size: 24px;
+    /* margin-right: 1220px; */
+    text-align: center;
+}
+#titlediv{
+    text-align: center;
+}
+#harrisbody{
+    background-size: cover;
+}
+#content{
+    height:700px;
+    background-color: lightblue;
+    border: 4px double lightgrey;
+    margin-left:100px;
+    margin-right:100px;
+}
+#data{
+    float:left;
+    width: 350px;
+    height: 250px;
+    background-color:darkgray;
+    margin-top: 100px;
+    margin-left: 50px;
+    padding:5px;
+    border: 6px double lightgray;
+}
+#map{
+    float:right;
+    width: 640px;
+    height: 530px;
+    background-color:white;
+    margin-right: 50px;
+    margin-top: 90px;
+}
+.harrismap{
+    height: 500px;
+    width: 580px;
+    margin-left: 35px;
+    margin-top: 12px;
+}
+#datahead{
+    font-size:24px;
+    text-align:center;
+}
+#datap{
+    font-size:14px;
+    text-align:center;
+}
+#deathinput{
+    height:50px;
+    width:100px;
+    margin-left:126px;
+    font-size: 26px;
+    text-align: center;
+}
